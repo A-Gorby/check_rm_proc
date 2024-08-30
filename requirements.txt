@@ -1,0 +1,5 @@
+xlrd
+pyxlsb
+openpyxl
+py7zr
+xlsxwriter
