@@ -48,7 +48,7 @@ import matplotlib.pyplot as plt
 # %matplotlib inline
 from matplotlib.colors import ListedColormap, BoundaryNorm
 
-from utils_io import insert_pd_col_after_col, save_df_lst_to_excel_xlsxwriter
+from utils_io import insert_pd_col_after_col, save_df_lst_to_excel_xlsxwriter, split_column_to_rows
 
 class Logger():
     def __init__(self, name = 'main',
