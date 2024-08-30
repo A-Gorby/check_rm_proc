@@ -476,6 +476,7 @@ def make_total_proc_df(
 
 def main (
     data_source_dir,
+    data_processed_dir,
     fn_features_source,
     sh_n_features_source,
     col_source,
